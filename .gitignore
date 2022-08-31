@@ -51,5 +51,5 @@ yarn-error.log*
 .vercel
 
 # Static Resources
-/public/images
-/public/videos
+# /public/images
+# /public/videos
